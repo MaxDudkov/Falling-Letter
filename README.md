@@ -1,3 +1,3 @@
-## Мои игры на Python
+## Falling letter
 
-* Letter Game - Падающая буква
+* Game to improve your typing skills
